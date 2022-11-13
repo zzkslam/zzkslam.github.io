@@ -1,0 +1,118 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Zhenkun Zhu
+    - name: Contact
+      value: zhuzhenkun [at] mail.ustc [dot] com
+    - name: Research Interests
+      value: Visual SLAM, Computer Vision and Robotics
+    - name: Languages
+      value: English, Chinese
+
+- title: Education
+  type: time_table
+  contents:
+#    - title: Ph.D. in Information Science
+#      institution: Indiana University Bloomington, United States
+#      year: 2015 - 2020
+#      description:
+#        - Minor in Computer Science
+#        - Advised by Prof. <a href='http://xiaozhong.website2.me/'>Xiaozhong Liu</a>
+    - title: M.S. in Control Science and Engineering
+      institution: University of Science and Technology of China , China
+      year: 2020 - 2023
+    - title: B.M. in Electrical Engineering
+      institution: Soochow University
+      year: 2016 - 2020
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022.09
+      items: First-Class Scholarship of University of Science and Technology of China
+    - year: 2021.09
+      items: First-Class Scholarship of University of Science and Technology of China
+    - year: 2020.09
+      items: First-Class Scholarship of University of Science and Technology of China
+    - year: 2020.06
+      items: Excellent Graduate of Soochow University
+    - year: 2019.10
+      items: 2nd Runner-up of Jiangsu Undergraduate Robot Competition
+    - year: 2019.06
+      items: 2nd Runner-up of National Undergraduate Engineering Training Integration Ability Competition
+    - year: 2019.04
+      items: 1st Runner-up of Jiangsu Undergraduate Engineering Training Integration Ability Competition
+
+
+#- title: Experience
+#  type: time_table
+#  contents:
+#    - title: Applied Scientist
+#      institution: Amazon Alexa AI
+#      year: 06/2020 - now
+#      description:
+#        - Built Natural Language Understanding (NLU) pipelines for Alexa to support customer utterance interpretation.
+#        - Expanded Alexa NLU pipelines from English regions to other language regions by involving contextual signals.
+#        - Developed 3p skill recommendation for fall back utterances to improve customer experience.
+#    - title: Data Scientist Intern
+#      institution: Amazon Alexa AI
+#      year: 06/2019 - 09/2019
+#      description:
+#        - Applied deep language models and state-of-art clustering methods to extract infuential text patterns from user requests.
+#        - Built up an automatic pipeline by Spark and Shell scripts to enable training models on multiple data resources under Alexa restricted environment to replace existing human labor annotation.
+#
+#    - title: NLP Research Intern
+#      institution: Alibaba DAMO Academy / AI Lab
+#      year: 02/2018 - 03/2019
+#      description:
+#        - Generated product review summary from user consecutive behaviors by leveraging dynamic matrix factorization, deep reinforcement learning (Policy Gradient) and sequence to sequence model (Neural Machine Translation) with Attention techniques.
+#        - Proposed an end-to-end pairwise ranking model with transfer learning techniques to detect communities in targeted sparse graphs.
+#        - Detected multilevel anomalies from high dimensional dynamic use logs via Adversarial Autoencoder and Attention-based hierarchical representation learning.
+#
+#- title: Services
+#  type: nested_list
+#  contents:
+#    - title: Conference Reviewer
+#      items:
+#        - ACM International Conference on Web Search and Data Mining (WSDM 2023)
+#        - The Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)
+#        - AAAI Conference on Artificial Intelligence (AAAI 2022,2023)
+#        - China Conference on Knowledge Graph and Semantic Computing (CCKS 2022)
+#        - Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE 2022)
+#        - IEEE International Conference on Multimedia and Expo (ICME 2022)
+#        - The Web Conference (WWW 2019, 2020)
+#        - ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018, 2022)
+#        - IEEE International Conference on Big Data (BigData 2020)
+#        - Joint Conference on Digital Libraries (JCDL 2021, 2022)
+#        - ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshop (DLP-KDD 2020,2021; IWKG-KDD 2020)
+#        - Workshop on Scholarly Document Processing (SDP-NAACL 2021, SDP-COLING 2022)
+#        - International Conference on Information Systems (ICIS 2021)
+#        - China Conference on Information Retrieval (CCIR 2021)
+#    - title: Journal Reviewer
+#      items:
+#        - Data Intelligence (2022)
+#        - The Social Science Journal (2022)
+#        - Journal of Informetrics (JOI 2021)
+#        - Computers in Industry (2021)
+#        - Journal of the Association for Information Science and Technology (JASIST 2019, 2021)
+#        - PeerJ Computer Science (2020)
+#        - PLoS ONE (2020, 2021)
+#        - BMC Bioinformatics (2019, 2020, 2022)
+#        - Social Network Analysis and Mining (SNAM 2019, 2020, 2021)
+#        - Medical Science Monitor (2019)
+#        - ACM Transactions on Computing for Healthcare (2020)
+#    - title: Funding Reviewer
+#      items:
+#        - Amazon Research Awards (ARA 2022)
+#    - title: Administrative Service
+#      items:
+#        - Chair of Doctoral Student Association (DSA) at Department of Information and Library Science, Indiana University Bloomington (2016 - 2018)
+
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 2018 - 2019
+#      items: Clayton A. Shepherd Scholarship, Indiana University Bloomington
+#    - year: 2015 - 2018
+#      items: T’ung-li Yuan Memorial Fellowship, Indiana University Bloomington
